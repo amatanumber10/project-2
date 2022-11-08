@@ -1,11 +1,11 @@
 /* Place CSS styles here */
 body {
-    color: darkblue;
+    color: rgb(255, 255, 255);
     font-family: 'Playfair Display', serif;
     background: 
     linear-gradient(
         rgb(8, 6, 119),
-        rgb(255, 255, 255)
+        rgba(8, 6, 119)
     ),
     url(../img/FC+Barcelona+v+Granada+CF+La+Liga+2zJyp4K3CHhx.jpg);
 
