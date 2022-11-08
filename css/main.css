@@ -11,3 +11,7 @@ body {
 
     background-size: cover;
 }
+
+@media and (max-width:600px) {
+    
+}
