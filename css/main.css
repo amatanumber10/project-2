@@ -1,7 +1,7 @@
 /* Place CSS styles here */
 body {
     color: darkblue;
-    font-family: 'serif';
+    font-family: 'Playfair Display', serif;
     background: 
     linear-gradient(
         rgb(8, 6, 119),
@@ -15,3 +15,15 @@ body {
 @media and (max-width:600px) {
     
 }
+img, picture, video {
+    max-width: 100%;
+  }
+  
+  .kitkat-intro-container {
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
