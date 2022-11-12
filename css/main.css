@@ -88,7 +88,27 @@ a {
   width: 100vw;
   background-color:
 }
-
+.scroll-to-top {
+  position: fixed;
+  z-index: 1000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 1;
+  bottom:5px;
+  right:5px;
+  height: 60px;
+  width: 60px;
+  border-radius: 30%;
+  background: #1f1f1f;
+  color: #fff;
+  font-size: 1.8rem;
+  font-weight: 600;
+  transition: background .2s ease;
+}
+.scroll-to-top:hover {
+  background: var(--bold);
+}
 .top {
   visibility: hidden;
   width: auto;
@@ -118,6 +138,3 @@ a {
 .row:nth-child(3) {
   margin-left: 36%;
 }
-
-
-
