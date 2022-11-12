@@ -106,7 +106,7 @@ a {
   color: #fff;
   font-size: 1.8rem;
   font-weight: 600;
-  transition: background .2s ease;
+  transition: var(--bg1) .2s ease;
 }
 .scroll-to-top:hover {
   background: var(--bold);
