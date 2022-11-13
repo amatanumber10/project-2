@@ -38,7 +38,7 @@ h {
   font-family: 'Anton', sans-serif;
   font-size: 2rem;
   text-transform: uppercase;
-  color: var(--bold);
+  color: white;
   transition: all .3s ease;
 }
 h:hover {
