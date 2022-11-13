@@ -5,7 +5,7 @@
   padding: 0;
 }
 :root {
-    background-image: url("../img/Messi.jpg");
+    background-color: black;
   
 }
 html {
@@ -24,7 +24,6 @@ body {
   border-radius: 15px;
 }
  
-/* Handle */
 ::-webkit-scrollbar-thumb {
   background: #888; 
   border-radius: 15px;
@@ -38,7 +37,7 @@ h {
   font-family: 'Anton', sans-serif;
   font-size: 2rem;
   text-transform: uppercase;
-  color:white;
+  color: white;
   transition: all .3s ease;
 }
 h:hover {
@@ -125,3 +124,6 @@ a {
 .row:nth-child(3) {
   margin-left: 36%;
 }
+
+
+
