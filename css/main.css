@@ -105,6 +105,6 @@ a {
 .row:nth-child(3) {
   margin-left: 36%;
 }
-
-
-
+h3 {
+color: pink;
+}
