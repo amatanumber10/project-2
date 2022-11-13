@@ -38,7 +38,7 @@ h {
   text-transform: uppercase;
   color: white;
   transition: all .3s ease;
-  text-shadow: 4px 4px 5px rgb(253, 157, 173);
+  text-shadow: 4px 4px 5px rgb(214, 6, 6);
 }
 h:hover {
   font-size: 2.1rem;
