@@ -5,23 +5,7 @@
   padding: 0;
 }
 :root {
-  --bg1: #ffeb99;
-  --bg2: #f666ff;
-  --bg3: #00ffa0;
-  --bg4: white;
-  --gradient1: radial-gradient(at 2% 14%, hsla(165,94%,76%,1) 0px, transparent 50%),
-radial-gradient(at 9% 94%, hsla(28,95%,70%,1) 0px, transparent 50%),
-radial-gradient(at 21% 44%, hsla(35,81%,79%,1) 0px, transparent 50%),
-radial-gradient(at 9% 38%, hsla(104,79%,78%,1) 0px, transparent 50%),
-radial-gradient(at 85% 43%, hsla(196,82%,68%,1) 0px, transparent 50%),
-radial-gradient(at 73% 81%, hsla(250,87%,79%,1) 0px, transparent 50%),
-radial-gradient(at 54% 91%, hsla(294,94%,71%,1) 0px, transparent 50%);
-  --play-gradient: linear-gradient(45deg,  rgb(174 162 255) 10%, rgb(139 128 254) 30%, rgb(119 109 254) 50%, rgb(61 101 251) 90%);
-  --gradient-hobby: linear-gradient(490deg,#665cfe 1%,#ff7fc4 60.27%,#ffcc49 100.47%);
-  --bold: rgba(0,0,0,1);
-  --medium: rgba(0,0,0,0.8);
-  --tag-bg: #dee0fa;
-  --tag-text: #5b63be;
+  
 }
 html {
   scroll-behavior: smooth;
